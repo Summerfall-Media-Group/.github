@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## The Summerfall Media Group is a small community that was formerly known as the MM Network.
+### The group operates on a non-profit basis and has been functioning as an independent entity since 2022. They run a radio station, release music, develop applications, and also provide video education. Among their major projects are the SummerfallFM web radio and a Minecraft web series titled Minesztézia.
+
 <!--
 
 **Here are some ideas to get you started:**
